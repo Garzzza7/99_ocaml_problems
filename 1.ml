@@ -1,3 +1,5 @@
+(* Tail of a List *)
+
 let rec my_last = function
   | [] -> -1 (* idk tbh *)
   | [ x ] -> x
